@@ -1,0 +1,11 @@
+# Assembler debug file for MCU 8051 IDE v1.4.7
+# Used assembler: MCU 8051 IDE
+# Date: 08/02/2019
+3C103DD0084BAB4DF42B66131B472DA1 "bitaddressing.asm" 
+0 1 0 116 69
+0 2 2 117 240 84
+0 3 5 37 240
+0 4 7 251
+0 5 8 210 210
+0 6 10 210 211
+0 7 12 250

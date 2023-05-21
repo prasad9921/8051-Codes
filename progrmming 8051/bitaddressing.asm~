@@ -1,0 +1,7 @@
+mov A,#45h
+mov B,#54h
+add A,B
+mov R3,A
+setb PSW.2
+setb PSW.3
+mov R2,A
